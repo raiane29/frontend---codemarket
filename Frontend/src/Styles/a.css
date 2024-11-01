@@ -1,0 +1,16 @@
+a{
+    font-family: Arial, Helvetica, sans-serif;
+    height: 174px;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 20px;
+    justify-content: start;
+    padding-bottom: 10px;margin-bottom: 20px;
+    display: flex;
+    justify-content:right;
+    flex-direction: row;
+    height: 447px;
+    border-top-left-radius:20px ;
+    border-bottom-left-radius: 20px;
+    align-items: center;
+}
