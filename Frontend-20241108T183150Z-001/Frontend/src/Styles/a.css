@@ -1,0 +1,19 @@
+a{
+    font-family: Arial, Helvetica, sans-serif;
+    height: 174px;
+    align-items: center;
+    justify-content: space-between;
+    justify-content: space-evenly;
+    padding-left: 20px;
+    justify-content: start;
+    padding-bottom: 10px;margin-bottom: 20px;
+    display: flex;
+    justify-content:right;
+    flex-direction: column;
+    height: 447px;
+    border-top-left-radius:20px ;
+    border-bottom-left-radius: 20px;
+    align-items: left;
+text-align: center;
+justify-content: space-between;
+}
